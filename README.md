@@ -1,5 +1,5 @@
-# spark-io-humidifer-control
-A simple Spark.io application to control a humidifier
+# Spark.io Humidifier Controller
+A simple Spark.io application to control a humidifier. This code should be deployed to the Spark "core".
 
 # Installation Instructions
 
